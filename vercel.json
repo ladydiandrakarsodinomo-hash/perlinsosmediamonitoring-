@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "app/api/fetch-news/route.js": {
+      "maxDuration": 60
+    }
+  }
+}
